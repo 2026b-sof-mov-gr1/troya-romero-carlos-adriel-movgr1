@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "catr2026bmovgr1"
+include(":app")
