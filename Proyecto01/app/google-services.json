@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500023840464",
+    "project_id": "catr2026bmovgr1",
+    "storage_bucket": "catr2026bmovgr1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500023840464:android:b5cf30b967f750c45f58d5",
+        "android_client_info": {
+          "package_name": "com.example.catr2026bmovgr1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV136CJgFaoBNdYqCw4JNoIemHHwSUTOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
